@@ -3,8 +3,8 @@
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning machine learning and deep learning 
 - 📫 How to reach me
-- [linkedin.com/in/ahmedalibaig1102](https://www.linkedin.com/in/ahmedalibaig1102)
-- you can reach me at :- alibaig1102@gmail.com
+-www.linkedin.com/in/alibaig8088
+- you can reach me at :- alibaig8088@gmail.com
 
 
 <!---
