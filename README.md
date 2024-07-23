@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning machine learning and deep learning 
 - 📫 How to reach me
 -www.linkedin.com/in/alibaig8088
-- you can reach me at :- alibaig8088@gmail.com
+- you can Dm me at :- alibaig8088@gmail.com
 
 
 <!---
