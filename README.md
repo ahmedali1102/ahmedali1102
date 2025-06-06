@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Ahmed Ali Baig
 
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning machine learning and deep learning 
+- 👀 A working professional in the field of Data science 
 - 📫 How to reach me
--www.linkedin.com/in/alibaig8088
-- you can Dm me at :- alibaig8088@gmail.com
+- alibaig8088@gmail.com
 
 
 <!---
